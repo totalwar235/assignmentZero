@@ -1,0 +1,9 @@
+Algorithm: Selection Sort
+
+Techniques: reusable code
+
+Problem: more testing, this was solved by having a loop compare both strings to each other and if anything was not the same then it would flag as incorrect.
+
+Applications: A selection sort is a very generic sorting algorithm and can be used in a variety of situations but with the way I have layed out the files I can reuse DubRandArray.
+java for assignments in the future or even continue down the library path approach for other assignments that do not use double arrays.
+****updated: I implimented a quick sort, added timing so we can compair how long each sort takes in milliseconds and added some additional testing.
